@@ -7,7 +7,7 @@ import ContactPage from './templates/ContactPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename='b-planet'>
       <Routes>
         <Route exact path="/" element={<HomePage />}></Route>
         <Route exact path="desc/:id" element={<DescPage />}></Route>
