@@ -7,8 +7,8 @@ function Banner(){
         <Navbar />
         <div className="flex justify-center ">
             <p style={{"color":"#1F3923"}} className="font-medium text-2xl my-auto font-mono">'As interesting<br /> as a plant'</p>
-            <img alt="hero1" src="../Images/Hero image 2.png" className="" />
-            <img alt="hero2" src="../Images/hero image 1.png" className="" />
+            <img alt="hero1" src="Images/Hero image 2.png" className="" />
+            <img alt="hero2" src="Images/hero image 1.png" className="" />
         </div>
     </div>
     )

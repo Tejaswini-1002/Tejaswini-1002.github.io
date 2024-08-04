@@ -110,7 +110,9 @@ function DescPage(props){
     <div style={{"backgroundColor":"#FFF9F0"}} className='h-screen'>
         <div className='m-auto flex justify-between p-2'>
             <h2 className='text-2xl font-medium m-auto'>B.planet</h2>
-            <button className="border-2 border-black rounded-2xl px-2 mr-2">Contact us</button>
+            <button className="border-2 border-black rounded-2xl px-2 mr-2 hover:bg-black hover:text-white">
+                <Link to="https://tejaswini-1002.github.io/b-planet/contact/">Contact us</Link>
+            </button>
         </div>
         <div className='flex'>
         <div className='px-6'>
