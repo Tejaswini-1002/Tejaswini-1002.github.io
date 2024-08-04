@@ -7,12 +7,12 @@ function Banner() {
     return (
         <div style={{ backgroundColor: '#C9C0B1' }} className="h-screen px-5 py-4 overflow-hidden">
             <Navbar />
-            <div className="flex justify-center items-center space-x-4">
+            <div className="flex justify-center mt-16">
                 <p style={{ color: '#1F3923' }} className="font-medium text-2xl my-auto font-mono">
                     'As interesting<br /> as a plant'
                 </p>
-                <img alt="hero1" src={hero1} className="h-96 w-96 object-contain" />
-                <img alt="hero2" src={hero2} className="h-96 w-96 object-contain" />
+                <img alt="hero1" src={hero1} className="w-96 object-contain" />
+                <img alt="hero2" src={hero2} className="w-96 object-contain" />
             </div>
         </div>
     );
