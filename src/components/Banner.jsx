@@ -11,8 +11,8 @@ function Banner() {
                 <p style={{ color: '#1F3923' }} className="font-medium text-2xl my-auto font-mono">
                     'As interesting<br /> as a plant'
                 </p>
-                <img alt="hero1" src={hero1} className="h-32 w-32 object-contain" />
-                <img alt="hero2" src={hero2} className="h-32 w-32 object-contain" />
+                <img alt="hero1" src={hero1} className="h-64 w-64 object-contain" />
+                <img alt="hero2" src={hero2} className="h-64 w-64 object-contain" />
             </div>
         </div>
     );
