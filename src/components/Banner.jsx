@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-function Banner(){
-    const images = [
-        {
-            id:1,
-            src: "../Images/Hero image 1.png"
-        },
-        {
-            id:2,
-            src: "../Images/hero image 2.png"
-        }
-    ];
+function Banner({images}){
+    // const images = [
+    //     {
+    //         id:1,
+    //         src: "../Images/Hero image 1.png"
+    //     },
+    //     {
+    //         id:2,
+    //         src: "../Images/hero image 2.png"
+    //     }
+    // ];
 
     return(
     <div style={{"backgroundColor":"#C9C0B1"}} className="h-screen px-5 py-4 overflow-hidden">
