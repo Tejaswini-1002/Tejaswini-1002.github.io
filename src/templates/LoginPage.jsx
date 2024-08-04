@@ -6,7 +6,7 @@ function LoginPage(){
         <div style={{"backgroundColor":"#FFF9F0"}} className='h-screen w-screen'>
             <div className='m-auto flex justify-between p-2'>
                 <h2 className='text-2xl font-medium m-auto'>B.planet</h2>
-                <button className="border-2 border-black rounded-2xl px-2 mr-2"><Link to="contact/">Contact us</Link></button>
+                <button className="border-2 border-black rounded-2xl px-2 mr-2"><Link to="https://tejaswini-1002.github.io/b-planet/contact/">Contact us</Link></button>
             </div>
             <div className='mx-auto mt-16 flex w-1/2 h-64 justify-center border-2' style={{"borderColor": "#B48F8F"}}>
                 <div className='w-1/2'>
