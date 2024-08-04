@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/b-planet/static/css/main.ddad9f75.css",
-    "main.js": "/b-planet/static/js/main.fa161d53.js",
+    "main.js": "/b-planet/static/js/main.d3767b76.js",
     "index.html": "/b-planet/index.html",
     "main.ddad9f75.css.map": "/b-planet/static/css/main.ddad9f75.css.map",
-    "main.fa161d53.js.map": "/b-planet/static/js/main.fa161d53.js.map"
+    "main.d3767b76.js.map": "/b-planet/static/js/main.d3767b76.js.map"
   },
   "entrypoints": [
     "static/css/main.ddad9f75.css",
-    "static/js/main.fa161d53.js"
+    "static/js/main.d3767b76.js"
   ]
 }
