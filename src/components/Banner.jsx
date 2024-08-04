@@ -1,8 +1,10 @@
 import React from 'react'
 import Navbar from './Navbar'
+import src1 from "../Images/hero image 2.png"
+import src2 from "../Images/Hero image 1.png"
 
-const src1 = "../Images/hero image 2.png";
-const src2 = "../Images/Hero image 1.png";
+// const src1 = "../Images/hero image 2.png";
+// const src2 = "../Images/Hero image 1.png";
 
 function Banner(){
     return(
