@@ -6,11 +6,11 @@ function HomePage(props){
   const images = [
     {
         id:1,
-        src: "../Images/Hero image 1.png"
+        src: "../Hero image 1.png"
     },
     {
         id:2,
-        src: "../Images/hero image 2.png"
+        src: "../hero image 2.png"
     }
   ];
     return(
